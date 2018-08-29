@@ -80,3 +80,4 @@ L = mtcars$am == 0
  
  anova(plant.mod1)
  
+ 
